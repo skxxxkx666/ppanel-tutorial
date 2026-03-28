@@ -1,184 +1,110 @@
-# ⚡ Clash Verge - 现代化代理工具
+# ⚡ Clash Verge Rev for Windows
 
-> 🚀 **强大的跨平台代理客户端** | 基于 Clash 内核，提供现代化的图形界面
+> 🚀 **现代化 GUI 客户端** | 规则分流清晰、策略组管理强、上手直观
 
-[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) 是基于 Clash 内核的现代化 GUI 图形客户端，支持 Windows、Linux、macOS 多平台，具备强大的分流规则功能和丰富的代理协议支持。
+[Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) 是基于 Clash 内核的图形客户端，适合需要规则分流、策略组切换和可视化操作的用户。
 
 ## 📊 平台支持
 
-| 平台 | 版本要求 | 架构支持 | 状态 |
-|------|----------|----------|------|
-| 🪟 **Windows** | Windows 7+ | x64 / x86 | ✅ 完全支持 |
-| 🐧 **Linux** | Ubuntu 18.04+ | x64 / ARM64 | ✅ 完全支持 |
-| 🍎 **macOS** | macOS 10.15+ | Intel / Apple Silicon | ✅ 完全支持 |
+| 平台 | 状态 | 说明 |
+|------|------|------|
+| 🪟 Windows | ✅ 完全支持 | 本文档适用平台 |
+| 🍎 macOS | ✅ 完全支持 | 另有 macOS 教程 |
+| 🐧 Linux | ✅ 完全支持 | 桌面发行版可用 |
 
 ## 🔧 系统要求
 
-### Windows 环境
+| 项目 | 最低要求 | 推荐配置 |
+|------|----------|----------|
+| **操作系统** | Windows 10 | Windows 11 |
+| **架构** | x64 | x64 |
+| **内存** | 4GB | 8GB+ |
+| **存储空间** | 300MB | 1GB+ |
 
-| 项目 | 要求 | 推荐 |
-|------|------|------|
-| **操作系统** | Windows 7+ | Windows 10/11 |
-| **架构** | 32/64-bit | 64-bit |
-| **设备类型** | PC / Tablet | 桌面设备 |
-| **内存** | 2GB+ | 4GB+ |
-| **存储空间** | 100MB+ | 500MB+ |
+## 📥 下载与安装
 
-## 📥 官方下载
+### 🌟 官方下载
 
-> 💡 **下载提示**：建议选择最新版本以获得最佳体验和安全性
+- Windows x64（直链）：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe
+- Windows ARM64（直链）：https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_arm64-setup.exe
+- Windows x64（🚀 镜像加速）：https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_x64-setup.exe
+- Windows ARM64（🚀 镜像加速）：https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_arm64-setup.exe
+- 当前参考版本：`v2.4.7`
 
-### 🌟 主要下载源
+### 🛠️ 安装说明
 
-| 下载源 | 类型 | 速度 | 推荐度 |
-|-------|------|------|--------|
-| [📦 官方 GitHub](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 官方源 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [🚀 镜像加速](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 镜像源 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [🔗 备用链接](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 备用源 | ⭐⭐⭐ | ⭐⭐⭐ |
+1. 下载 `x64-setup.exe` 安装包。
+2. 正常安装后首次启动。
+3. 如遇系统安全提示，选择继续运行。
 
-### 📋 版本信息
+## 🚀 完整配置教程
 
-- **当前版本**：v1.7.7
-- **文件大小**：约 80MB
-- **文件类型**：Windows 安装程序 (.exe)
-- **数字签名**：✅ 已签名
+### 📥 步骤一：导入配置
 
-## ⚠️ 安全提示
+进入“配置 / Profiles”，选择 URL 导入。
 
-### 🛡️ Windows 安全设置
+![配置导入界面](clash-verge-rev-01.png)
 
-> **首次运行可能遇到的安全提示**
+### ⚙️ 步骤二：填写订阅信息
 
-Windows 10/11 用户首次运行时可能会看到 Windows Defender SmartScreen 安全提示：
+粘贴 FreedomPort 订阅链接并保存。
 
-#### 🔧 解决步骤
+![配置设置](clash-verge-rev-02.png)
 
-1. **点击「更多信息」** - 展开详细信息
-2. **点击「仍要运行」** - 确认运行应用程序
-3. **添加到白名单** - 避免下次出现提示
+### ✅ 步骤三：确认配置
 
-> 💡 **安全说明**：这是 Windows 对未知发布者软件的正常安全检查，Clash Verge 是开源安全的软件。
+确认配置名称和链接无误后应用。
 
-## 🚀 快速配置教程
+![配置确认](clash-verge-rev-03.png)
 
-### 📥 步骤一：导入配置文件
+### ▶️ 步骤四：应用并启用
 
-![配置导入界面](clash-verge-03.png)
+应用配置，切到代理页选择节点或策略组。
 
-> **导入方式选择**：支持 URL 订阅和本地文件导入
+![应用配置](clash-verge-rev-04.png)
 
-![配置设置](clash-verge-04.png)
+### 🔄 步骤五：更新配置
 
-> **配置参数设置**：填写订阅链接或选择配置文件
+手动点击更新，确保节点列表是最新状态。
 
-![配置确认](clash-verge-05.png)
+![配置更新](clash-verge-rev-05.png)
 
-> **配置确认验证**：检查配置信息是否正确
+## ✨ 主要功能
 
-![应用配置](clash-verge-06.jpg)
+### 🎯 策略分流
 
-> **激活配置**：应用配置并启用代理服务
+- 支持规则模式、全局模式、直连模式。
+- 支持策略组自动/手动切换。
 
-### 🔄 步骤二：更新配置文件
+### 📊 状态与日志
 
-![配置更新](clash-verge-07.png)
+- 可查看连接情况和规则命中。
+- 可快速定位连接失败原因。
 
-> **自动更新**：定期更新配置以获取最新节点信息
+### ⚙️ 可视化管理
 
-## ✨ 主要特性
-
-### 🎯 核心功能
-
-- **🚀 高性能内核**：基于 Clash 内核，性能卓越
-- **🎨 现代化界面**：Material Design 风格，操作简洁
-- **📊 实时监控**：流量统计、连接监控、速度测试
-- **🛡️ 规则分流**：智能分流，自定义规则支持
-
-### 🔧 高级功能
-
-- **⚡ 策略组管理**：灵活的节点分组和切换
-- **📈 性能优化**：内存占用低，CPU 使用率优化
-- **🌐 多协议支持**：Shadowsocks、V2Ray、Trojan 等
-- **🔄 自动更新**：配置文件和规则自动更新
+- 图形界面直观操作配置。
+- 适合非命令行用户日常维护。
 
 ## ❓ 常见问题
 
-### 🔧 安装相关
+**Q: 导入成功但没有节点？**  
+A: 先手动更新配置，若仍为空，检查订阅链接是否可访问，确认账号套餐有效。
 
-**Q: 安装时提示病毒怎么办？**
+**Q: 节点都超时？**  
+A: 切换网络重试；更换低延迟节点；确认本地防火墙未拦截应用。
 
-A: 这是误报，Clash Verge 是开源软件，可以：
+**Q: 连接后无法打开网页？**  
+A: 检查模式是否为 Rule/Global，确认系统代理已启用，再测试。
 
-1. 添加到杀毒软件白名单
-2. 临时关闭实时保护进行安装
-3. 从官方 GitHub 下载确保文件完整性
+**Q: 检测到DNS泄露?**
+A: 请查看网站文档里面的关于讲解DNS泄露
 
-**Q: 安装后无法启动？**
+## 📞 技术支持
 
-A: 请检查：
+- 项目主页：https://github.com/clash-verge-rev/clash-verge-rev
+- 问题反馈：https://github.com/clash-verge-rev/clash-verge-rev/issues
 
-1. 系统是否满足最低要求
-2. 是否有其他代理软件冲突
-3. 尝试以管理员身份运行
-4. 重新下载安装包
+---
 
-### 🌐 使用相关
-
-**Q: 如何导入配置？**
-
-A: 支持多种导入方式：
-
-1. **URL 订阅**：直接粘贴订阅链接
-2. **本地文件**：选择本地 .yaml 配置文件
-3. **剪贴板导入**：从剪贴板直接导入配置
-
-**Q: 配置更新失败怎么办？**
-
-A: 尝试以下解决方案：
-
-1. 检查网络连接是否正常
-2. 验证订阅链接是否有效
-3. 尝试手动更新配置
-4. 重新导入配置文件
-
-## 🎨 界面预览
-
-### 主界面特色
-
-- **🎨 Material Design**：现代化设计语言
-- **🌙 暗色主题**：护眼的深色模式
-- **📊 数据可视化**：直观的流量统计图表
-- **⚡ 快速切换**：一键切换代理模式和节点
-
-### 功能模块
-
-- **📊 面板**：实时状态监控
-- **🔧 配置**：配置文件管理
-- **📈 连接**：连接详情查看
-- **⚙️ 设置**：个性化设置选项
-
-## 🔄 更新日志
-
-### v1.7.7 (2024.11.16)
-
-- ✨ 新增：支持更多代理协议
-- 🐛 修复：配置更新异常问题
-- ⚡ 优化：界面响应速度提升
-- 🛡️ 增强：安全性和稳定性改进
-
-## 🆚 软件对比
-
-| 特性 | Clash Verge | 其他客户端 | 优势 |
-|------|-------------|-----------|------|
-| **界面设计** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | 现代化 Material Design |
-| **性能表现** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 高效的 Rust 实现 |
-| **功能丰富度** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | 完整的 Clash 功能支持 |
-| **更新频率** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | 活跃的开发维护 |
-| **开源程度** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 完全开源，透明安全 |
-
-## 📞 获取帮助
-
-- 🌐 **项目主页**：[GitHub 仓库](https://github.com/clash-verge-rev/clash-verge-rev)
-- 📋 **问题反馈**：[Issues 页面](https://github.com/clash-verge-rev/clash-verge-rev/issues)
-- 💬 **社区讨论**：[Discussions 论坛](https://github.com/clash-verge-rev/clash-verge-rev/discussions)
-- 📚 **使用文档**：[Wiki 文档](https://github.com/clash-verge-rev/clash-verge-rev/wiki)
+> 📅 最后更新：2026年3月28日 | ⚡ 适用版本：Clash Verge Rev v2.4.7
