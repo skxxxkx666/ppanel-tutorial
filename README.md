@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="160" src="https://raw.githubusercontent.com/perfect-panel/ppanel-assets/refs/heads/main/logo.svg">
+<img width="160" src="https://cdn.jsdmirror.com/gh/perfect-panel/ppanel-assets@main/logo.svg">
 
 <h1>PPanel Public tutorial</h1>
 
