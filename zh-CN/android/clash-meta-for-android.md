@@ -46,37 +46,37 @@
 
 ### 🌟 步骤一：启动应用
 
-![应用启动界面](clash-meta-for-Android-01.png)
+![应用启动界面](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-01.png)
 
 ### ⚙️ 步骤二：进入配置页
 
-![配置管理页面](clash-meta-for-Android-02.jpg)
+![配置管理页面](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-02.jpg)
 
 ### 📥 步骤三：新增订阅
 
 点击新增配置并选择 URL 导入。
 
-![导入配置选项](clash-meta-for-Android-03.jpg)
+![导入配置选项](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-03.jpg)
 
 ### 📝 步骤四：粘贴订阅链接
 
-![配置信息填写](clash-meta-for-Android-04.jpg)
+![配置信息填写](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-04.jpg)
 
 ### ⏳ 步骤五：等待配置拉取
 
-![配置加载过程](clash-meta-for-Android-05.png)
+![配置加载过程](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-05.png)
 
 ### 🌐 步骤六：选择节点
 
-![节点选择界面](clash-meta-for-Android-06.jpg)
+![节点选择界面](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-06.jpg)
 
 ### ✅ 步骤七：确认并保存
 
-![配置确认界面](clash-meta-for-Android-07.jpg)
+![配置确认界面](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-07.jpg)
 
 ### 🚀 步骤八：开启代理
 
-![连接状态显示](clash-meta-for-Android-08.jpg)
+![连接状态显示](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/android/clash-meta-for-Android-08.jpg)
 
 ## 🎛️ 进阶功能
 
@@ -114,3 +114,4 @@ A: 先更换网络环境，再切换到距离更近的节点组。
 ---
 
 > 📅 最后更新：2026年3月28日 | ⚔️ 适用版本：Clash Meta for Android v2.11.24
+

@@ -43,31 +43,31 @@
 
 进入“配置 / Profiles”，选择 URL 导入。
 
-![配置导入界面](clash-verge-rev-01.png)
+![配置导入界面](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/windows/clash-verge-rev-01.png)
 
 ### ⚙️ 步骤二：填写订阅信息
 
 粘贴 FreedomPort 订阅链接并保存。
 
-![配置设置](clash-verge-rev-02.png)
+![配置设置](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/windows/clash-verge-rev-02.png)
 
 ### ✅ 步骤三：确认配置
 
 确认配置名称和链接无误后应用。
 
-![配置确认](clash-verge-rev-03.png)
+![配置确认](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/windows/clash-verge-rev-03.png)
 
 ### ▶️ 步骤四：应用并启用
 
 应用配置，切到代理页选择节点或策略组。
 
-![应用配置](clash-verge-rev-04.png)
+![应用配置](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/windows/clash-verge-rev-04.png)
 
 ### 🔄 步骤五：更新配置
 
 手动点击更新，确保节点列表是最新状态。
 
-![配置更新](clash-verge-rev-05.png)
+![配置更新](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/windows/clash-verge-rev-05.png)
 
 ## ✨ 主要功能
 
@@ -108,3 +108,4 @@ A: 请查看网站文档里面的关于讲解DNS泄露
 ---
 
 > 📅 最后更新：2026年3月28日 | ⚡ 适用版本：Clash Verge Rev v2.4.7
+

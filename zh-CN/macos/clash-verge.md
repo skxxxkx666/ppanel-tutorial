@@ -43,33 +43,33 @@
 2. 在安全提示处允许该应用运行。
 3. 重新打开应用。
 
-![安全警告](Clash-Verge-01.png)
-![系统设置](Clash-Verge-02.png)
-![确认打开](Clash-Verge-03.png)
+![安全警告](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-01.png)
+![系统设置](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-02.png)
+![确认打开](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-03.png)
 
 ## 🚀 配置教程
 
 ### 步骤一：启动客户端
 
-![应用主界面](Clash-Verge-04.png)
+![应用主界面](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-04.png)
 
 ### 步骤二：进入配置页
 
-![配置管理](Clash-Verge-05.png)
+![配置管理](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-05.png)
 
 ### 步骤三：新增订阅
 
-![添加订阅](Clash-Verge-06.png)
+![添加订阅](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-06.png)
 
 ### 步骤四：粘贴订阅信息并保存
 
-![输入订阅信息](Clash-Verge-07.png)
+![输入订阅信息](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-07.png)
 
 ### 步骤五：更新并启用
 
 导入后更新配置，进入代理页选择节点，开启系统代理。
 
-![更新配置](Clash-Verge-08.png)
+![更新配置](https://raw.githubusercontent.com/skxxxkx666/ppanel-tutorial/main/zh-CN/macos/Clash-Verge-08.png)
 
 ## 🎛️ 进阶功能
 
@@ -102,3 +102,4 @@ A: 在“隐私与安全性”中允许应用，再重新打开。
 ---
 
 > 📅 最后更新：2026年3月28日 | ⚔️ 适用版本：Clash Verge Rev v2.4.7
+
